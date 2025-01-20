@@ -1,0 +1,9 @@
+name: CountryPlugin
+main: country.palgato.CountryPlugin
+version: 1.0.0
+author: TuNombre
+description: Un plugin que proporciona placeholders para mostrar el país de los jugadores usando su dirección IP.
+
+api-version: 1.19
+softdepend:
+  - PlaceholderAPI

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="country:jar">
+    <output-path>$PROJECT_DIR$/../../Bouken dev/e5a37fe5-4ff0-4551-9642-e474683131c4/plugins</output-path>
+    <root id="archive" name="country.jar">
+      <element id="module-output" name="country" />
+    </root>
+  </artifact>
+</component>
